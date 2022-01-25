@@ -1,15 +1,15 @@
 # STL
 **Containers**
-                C++ Stacks
-                C++ Queues
-                C++ Priority Queues
+               Stacks
+               Queues
+               Priority Queues
 **Associative Containers**
-                C++ Maps
-                C++ Bit sets
-                C++ Multi maps
-                C++ Sets
-                C++ Multisets
+                Maps
+                Bit sets
+                Multi maps
+                Sets
+                Multisets
 **Sequences**
-                C++ Vector
-                C++ List
-                C++ Double ended Queues
+                Vector
+                List
+                Double ended Queues
